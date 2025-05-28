@@ -17,3 +17,4 @@
 ![{B5B1DD09-CF2C-4E21-B389-766A661D6D0B}](https://github.com/user-attachments/assets/cc7cc14f-4940-4045-8885-ae322e00179d)
 ![{E6C2DA71-6BFF-4CD8-8ABB-80E898EB9C87}](https://github.com/user-attachments/assets/1934496b-8c94-4b5c-8338-8113e62f5f22)
 
+**Установить Ruscord** [Последний релиз](https://github.com/ruscord/ruscord-electron-communities/releases)
